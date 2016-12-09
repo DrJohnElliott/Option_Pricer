@@ -34,7 +34,6 @@ option_price <- function(u_p,x_p,v,i_r,d,t_e){
         return(option_price )
 }
 
-
 function(input, output, session) {
         
         # Return the requested dataset
