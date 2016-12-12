@@ -15,7 +15,7 @@ fluidPage(
                        
                         sliderInput("v",
                                     "Volitility: % ",
-                                    min = 0, max = 100, value = 15),
+                                    min = 0, max = 100, value = 35),
                         #numericInput("v", "Volitility: % ",
                         #                     min = 1, max = 100, value = 10.5100, step = 0.01),
                         
